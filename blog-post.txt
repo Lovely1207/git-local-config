@@ -1,0 +1,2 @@
+blog.post.min=1
+blog.post.max=10
