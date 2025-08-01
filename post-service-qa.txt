@@ -1,0 +1,2 @@
+post-service.min=3
+post-service.max=10
